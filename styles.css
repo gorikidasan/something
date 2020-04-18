@@ -1,0 +1,18 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  text-align: center;
+}
+
+@media only screen and (max-width: 1020px) and (min-width: 768px) {
+}
+
+@media only screen and (max-width: 767px) {
+}
